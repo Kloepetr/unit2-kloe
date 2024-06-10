@@ -1,26 +1,14 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
     
-    color: white
+    color: black;
     padding: 128px 16px;
     text-align: center;
 }
 
 .body {
-    
-}
-
-
-body {
-    background-image: url("https://cdn.openart.ai/stable_diffusion/a4afb0f8ec4f227b43f88054463d140cd54264cf_2000x2000.webp");
-    background-color: #cccccc;
-    width: 700px;
-    position: fixed;
-   }
-
-.fixed {
-    position: fixed;
-    /* Positioned 20px from the bottom and right of the viewport */
-    top: 40px;
-    right: 20px;
+    background-image: url(nut.jpg);
+    baclground-repeat: no-repeat;
+    background-position: center;
+    background-
 }
